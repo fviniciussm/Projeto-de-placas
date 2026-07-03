@@ -1,6 +1,6 @@
 # FABRICAÇÃO DAS PLACAS PELO MÉTODO FOTOSSENSÍVEL
 
-Neste apêndice é descrito o procedimento utilizado para a confecção artesanal das placas de circuito impresso empregadas na bancada. A descrição é apresentada tomando como exemplo a placa de alimentação dos sensores, embora o mesmo método tenha sido aplicado às demais placas do projeto.
+O processo apresentado toma como exemplo a placa de alimentação dos sensores, embora o mesmo método tenha sido aplicado às demais placas do projeto.
 
 A fabricação foi realizada pelo processo fotossensível, utilizando placa de fenolite cobreada, tinta fotossensível, fotolito impresso em transparência, exposição à luz ultravioleta, revelação, corrosão e furação. O procedimento foi baseado nas recomendações do fornecedor da tinta fotossensível, com adaptações decorrentes dos recursos disponíveis.
 
@@ -14,7 +14,7 @@ Inicialmente, a placa de fenolite cobreada foi cortada nas dimensões necessári
 
 *Fonte: Autoria própria.*
 
-Após a preparação da superfície, foi aplicada uma camada de tinta fotossensível sobre a face cobreada da placa. Para melhorar a uniformidade da camada, utilizou-se uma centrífuga improvisada, permitindo espalhar a tinta de maneira mais homogênea sobre a superfície. Essa etapa exigiu cuidado, pois camadas muito espessas dificultam a revelação, enquanto camadas muito finas podem apresentar falhas durante a corrosão.
+Após a preparação da superfície, foi aplicada uma camada de tinta fotossensível sobre a face cobreada da placa. Para melhorar a uniformidade da camada, utilizou-se uma centrífuga improvisada, permitindo espalhar a tinta de maneira mais homogênea sobre a superfície. Essa etapa exigiu cuidado, pois camadas muito espessas dificultam a revelação, enquanto camadas muito finas podem apresentar falhas durante a corrosão. Como segue nas imagens:
 
 *Centrífuga improvisada.*
 <img width="3839" height="2879" alt="centrifuga-improvisada" src="https://github.com/user-attachments/assets/973d0dce-1775-416c-9c5c-0eb208df4148" />
