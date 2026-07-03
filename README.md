@@ -8,8 +8,10 @@ Por se tratar de um processo artesanal, algumas etapas foram realizadas de forma
 
 Inicialmente, a placa de fenolite cobreada foi cortada nas dimensões necessárias para o circuito. A superfície de cobre foi limpa e levemente polida, de modo a remover oxidações, resíduos e impurezas que poderiam prejudicar a aderência da tinta fotossensível.
 
-*Placa cobreada após corte e preparação da superfície. 
+*Placa cobreada após corte e preparação da superfície.
+
 <img width="3072" height="2304" alt="placa_cobreada_preparacao" src="https://github.com/user-attachments/assets/178017b4-200e-4064-aace-a85f1ea1d313" />
+
 Fonte: Autoria própria.*
 
 Após a preparação da superfície, foi aplicada uma camada de tinta fotossensível sobre a face cobreada da placa. Para melhorar a uniformidade da camada, utilizou-se uma centrífuga improvisada, permitindo espalhar a tinta de maneira mais homogênea sobre a superfície. Essa etapa exigiu cuidado, pois camadas muito espessas dificultam a revelação, enquanto camadas muito finas podem apresentar falhas durante a corrosão.
