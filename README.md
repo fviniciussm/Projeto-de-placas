@@ -83,3 +83,10 @@ A placa finalizada apresentou perfeitamente a transferência do desenho do circu
 Fonte: Autoria própria.*
 
 De modo geral, o método utilizado permitiu a fabricação das placas necessárias para a montagem da bancada, mesmo sem o uso de equipamentos profissionais. Apesar das limitações do processo artesanal, como a necessidade de controle manual da aplicação da tinta, da exposição e da corrosão, o resultado obtido foi suficiente para a montagem dos circuitos utilizados no desenvolvimento do trabalho.
+
+
+## Licença
+
+Este projeto está licenciado sob a licença [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/legalcode).
+
+[![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
